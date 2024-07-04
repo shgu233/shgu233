@@ -72,7 +72,7 @@ Responsibilities:
 
 ## 🏆 Certifications and Achievements
 
-- **Data Structures and Algorithms**: Completed the core DSA course. [Link]()
+- **Data Structures and Algorithms**: Completed the core DSA course. [Link](https://drive.google.com/file/d/1lPfzWq6TFLcIblJpXe7fAsLgEagKQb-F/view?usp=sharing)
 - **Python and Machine Learning**: 6 weeks summer internship - Certificate of completion. [Link]()
 - **Data Science and Machine Learning**: Completed a 6-month course at Coding Blocks. [Link]()
 - **SQL**: Completed Udemy SQL course. [Link]()
