@@ -3,7 +3,8 @@
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:shreyagupta0242@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-gupta-1575a6288/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-333333?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Shreya_0233/)
-[![Code360](https://www.naukri.com/mnjuser/profile?id=&altresid)
+[![Code360](https://img.shields.io/badge/-Code360-333333?style=flat&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/095e9d25-6fbe-4825-a811-b319ff74f8c3)
+
 ---
 
 ## 🎓 Education
