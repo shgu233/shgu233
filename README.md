@@ -65,7 +65,7 @@ Responsibilities:
 ## 📄 Publications
 
 - **Enhancing the Classification Accuracy using CNN, GANs, and Data Augmentation Techniques**  
-  *IEEE International Conference on Evolutionary Algorithms and Soft Computing Techniques (EASCT)*  
+  *IEEE International Conference on Evolutionary Algorithms and Soft Computing Techniques (EASCT)*  [Link](https://ieeexplore.ieee.org/document/10393694)
 
 
 ---
@@ -73,12 +73,12 @@ Responsibilities:
 ## 🏆 Certifications and Achievements
 
 - **Data Structures and Algorithms**: Completed the core DSA course. [Link](https://drive.google.com/file/d/1lPfzWq6TFLcIblJpXe7fAsLgEagKQb-F/view?usp=sharing)
-- **Python and Machine Learning**: 6 weeks summer internship - Certificate of completion. [Link]()
-- **Data Science and Machine Learning**: Completed a 6-month course at Coding Blocks. [Link]()
-- **SQL**: Completed Udemy SQL course. [Link]()
-- **Best Paper Presenter Award**: Received for the paper "Enhancing the Classification Accuracy using CNN, GANs, and Data Augmentation Techniques." [Link]()
+- **Python and Machine Learning**: 6 weeks summer internship - Certificate of completion. [Link](https://drive.google.com/file/d/1CLp4yrfeWTx9eJWsHove848coQnX4-jF/view?usp=sharing)
+- **Data Science and Machine Learning**: Completed a 6-month course at Coding Blocks. [Link](https://drive.google.com/file/d/1AAZXUVhFMazHJS2c-SUhUGN33hA2b9J3/view?usp=sharing)
+- **SQL**: Completed Udemy SQL course. [Link](https://drive.google.com/file/d/1IqYPtWb9EE3l0_82bx83RWBQ52mMQnCi/view?usp=sharing)
+- **Best Paper Presenter Award**: Received for the paper "Enhancing the Classification Accuracy using CNN, GANs, and Data Augmentation Techniques." [Link](https://drive.google.com/file/d/1Y8SmBAPS33kstprAvH3PtHNjRpgf_fpn/view?usp=sharing)
 - **Joint Entrance Examination**: Ranked in the top 3% among 10 Lac engineering aspirants - August 2021
-- **Diverse Certifications**: Over 45 certificates in various activities since childhood.
+- **Diverse Certifications**: Over 45 certificates in various extracurricular activities since childhood.
 
 ---
 
