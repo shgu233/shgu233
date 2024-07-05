@@ -7,7 +7,7 @@
 
 ---
 ## Leetcoder
-## Code360
+## Code360 -coder
 ## Data Science Enthusiast
 ## 🎓 Education
 
