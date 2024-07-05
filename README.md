@@ -6,7 +6,9 @@
 [![Code360](https://img.shields.io/badge/-Code360-333333?style=flat&logo=naukri&logoColor=white)](https://www.naukri.com/code360/profile/095e9d25-6fbe-4825-a811-b319ff74f8c3)
 
 ---
-
+## Leetcoder
+## Code360
+## Data Science Enthusiast
 ## 🎓 Education
 
 **Indira Gandhi Delhi Technical Institute of Technology**  
